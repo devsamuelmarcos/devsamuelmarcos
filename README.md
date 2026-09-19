@@ -27,7 +27,21 @@ Desenvolvedor com foco em **Java**, em constante evolução por meio de estudo e
 <img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/divider.svg" alt="" width="100%"/>
 
 ## 🎮 Jogos Roblox
-<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/projetos.svg" alt="Projetos em Destaque" width="100%" />
+<div align="center">
+  <img src="projetos.svg" alt="Meus Projetos" />
+  
+  <br>
+  
+  <a href="https://www.roblox.com/pt/games/87925311332731/Futebol-de-Toque-Cl-ssico" target="_blank">
+    <img src="https://img.shields.io/badge/⚽_Jogar-Classic_Touch_Soccer-10b981?style=for-the-badge&logo=roblox&logoColor=white" />
+  </a>
+  <a href="https://www.roblox.com/pt/games/120053743938092/Ultimate-Touch-Soccer" target="_blank">
+    <img src="https://img.shields.io/badge/🎮_Wishlist-Ultimate_Touch_Soccer-fbbf24?style=for-the-badge&logo=roblox&logoColor=black" />
+  </a>
+  <a href="COLOQUE_O_LINK_DO_SEU_GRUPO_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/&gt;_-Join_Group-34d399?style=for-the-badge&logo=roblox&logoColor=black" />
+  </a>
+</div>
 
 
 <br/><br/>
