@@ -26,28 +26,6 @@ Desenvolvedor com foco em **Java**, em constante evolução por meio de estudo e
 
 <img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/divider.svg" alt="" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/divider.svg" alt="" width="100%"/>
-
-## 🎮 Jogos Roblox
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/projetos.svg"
-  alt="Meus Projetos Roblox"
-  width="100%"
-/>
-
-<br><br>
-
-<sub>
-  <code>&gt; connection_established • Roblox / Luau • projects_online</code>
-</sub>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/divider.svg" alt="" width="100%"/>
-
 ## 💬 Linguagens
 
 <div align="center">
