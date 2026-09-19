@@ -31,11 +31,11 @@ Atualmente desenvolvo **jogos para outras pessoas no Roblox**, utilizando **Luau
 
 ---
 
-## 🛠️ Linguagens e ferramentas
+## 💬 Linguagens
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/skills.svg" alt="Linguagens e ferramentas: Java, JavaScript, Python, Luau, HTML, CSS, Roblox Studio"/>
+<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/skills.svg" alt="Linguagens: Java, JavaScript, Python, Luau, HTML, CSS"/>
 
 </div>
 
