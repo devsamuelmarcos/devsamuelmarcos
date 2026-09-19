@@ -4,42 +4,37 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/divider.svg" alt="" width="100%"/>
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor com foco em **Java**, em constante evolução por meio de estudo e prática. Ainda estou definindo minha especialização dentro da tecnologia e estou explorando as áreas abaixo.
+<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/sobre.svg" alt="Sobre mim: Samuel Marcos, foco em Java, estudando e praticando todos os dias" width="100%"/>
 
-- ☕ Foco atual: **Java**
-- 📚 Estudo contínuo e projetos práticos
-- 🗣️ Inglês para leitura de documentação e comunicação técnica
+Desenvolvedor com foco em **Java**, em constante evolução por meio de estudo e prática. Ainda estou definindo minha especialização dentro da tecnologia e explorando as áreas abaixo.
 
----
+<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/divider.svg" alt="" width="100%"/>
 
 ## 🎯 Áreas de interesse
 
-- 🌐 **Fullstack**
-- ⚙️ **Backend**
-- 🔐 **Cibersegurança**
-- 💼 **Desenvolvimento de software**
+<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/areas.svg" alt="Áreas de interesse: Fullstack, Backend, Cibersegurança e Desenvolvimento de software" width="100%"/>
 
----
+<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/divider.svg" alt="" width="100%"/>
 
 ## 🎮 Experiência prática
 
-Atualmente desenvolvo **jogos para outras pessoas no Roblox**, utilizando **Luau**, além de outros projetos. Essa experiência me ajuda a praticar lógica de programação, organização de código e entrega de projetos reais.
+<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/experiencia.svg" alt="Experiência prática: jogos para outras pessoas no Roblox com Luau" width="100%"/>
 
----
+<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/divider.svg" alt="" width="100%"/>
 
 ## 💬 Linguagens
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/skills.svg" alt="Linguagens: Java, JavaScript, Python, Luau, HTML, CSS"/>
+<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/skills.svg?v=3" alt="Linguagens: Java, JavaScript, Python, Luau, HTML, CSS" width="100%"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/divider.svg" alt="" width="100%"/>
 
 ## 🗣️ Idiomas
 
@@ -48,7 +43,7 @@ Atualmente desenvolvo **jogos para outras pessoas no Roblox**, utilizando **Luau
 | 🇧🇷 Português | Nativo |
 | 🇺🇸 Inglês | Intermediário |
 
----
+<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/divider.svg" alt="" width="100%"/>
 
 ## 💻 Um pouquinho de código
 
@@ -66,16 +61,10 @@ public class Samuel {
 }
 ```
 
----
+<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/divider.svg" alt="" width="100%"/>
 
 ## 📫 Contato
 
 - GitHub: [@devsamuelmarcos](https://github.com/devsamuelmarcos)
 
----
-
-<div align="center">
-
-⭐ *Curtiu algum projeto? Deixe uma estrela!* ⭐
-
-</div>
+<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/footer.svg" alt="Obrigado pela visita! Curtiu algum projeto? Deixe uma estrela." width="100%"/>
