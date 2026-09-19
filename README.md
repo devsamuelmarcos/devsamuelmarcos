@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Samuel Marcos" width="100%"/>
+<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/header.svg" alt="Samuel Marcos" width="100%"/>
 
 </div>
 
@@ -11,16 +11,16 @@
 - 🎮 Desenvolvo jogos no **Roblox** usando **Luau**
 - 🌐 Também trabalho com **web** (HTML, CSS e JavaScript)
 - ☕ Estudo e pratico **Java** e **Python**
-- 🗣️ Sei **inglês** e leio documentação sem problemas
+- 🇺🇸 Sei **inglês** e leio documentação sem problemas
 - 🌱 Sempre aprendendo algo novo e criando projetos
 
 ---
 
-## 🛠️ Tecnologias
+## 💬 Linguagens
 
 <div align="center">
 
-<img src="assets/skills.svg" alt="Tecnologias: Java, JavaScript, Python, Luau, HTML, CSS, Roblox Studio"/>
+<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/skills.svg" alt="Linguagens: Java, JavaScript, Python, Luau, HTML, CSS"/>
 
 </div>
 
