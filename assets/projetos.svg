@@ -393,146 +393,117 @@
 </g>
 
 <!-- ======================================================= -->
+
 <!-- COLDSTYLE STUDIO                                        -->
+
 <!-- ======================================================= -->
 
 <g>
 
-  <rect
-    x="602"
-    y="72"
-    width="260"
-    height="220"
-    rx="14"
-    fill="#03110a"
-    fill-opacity="0.90"
-    stroke="#34d399"
-    stroke-opacity="0.72"
-    stroke-width="1.5"/>
+<rect
+ x="602"
+ y="72"
+ width="260"
+ height="220"
+ rx="14"
+ fill="#0f3d26"
+ fill-opacity="0.82"
+ stroke="#10b981"
+ stroke-opacity="0.55"
+ stroke-width="1.4"/>
 
-  <rect
-    x="618"
-    y="72"
-    width="44"
-    height="3"
-    rx="1.5"
-    fill="#34d399"/>
+<rect
+ x="618"
+ y="72"
+ width="44"
+ height="3"
+ rx="1.5"
+ fill="#34d399"/>
 
-  <text
-    x="625"
-    y="103"
-    font-size="12"
-    fill="#34d399"
-    font-family="Consolas, 'Courier New', monospace">
-    // COMMUNITY
-  </text>
+<text
+ x="625"
+ y="103"
+ font-size="12"
+ fill="#34d399"
+ font-family="Consolas, 'Courier New', monospace">
+// COMMUNITY </text>
 
-  <text
-    x="625"
-    y="135"
-    font-size="18"
-    font-weight="700"
-    fill="#ecfdf5">
-    ColdStyle Studio
-  </text>
+<text
+ x="625"
+ y="135"
+ font-size="18"
+ font-weight="700"
+ fill="#ecfdf5">
+ColdStyle Studio </text>
 
-  <text
-    x="625"
-    y="157"
-    font-size="12.5"
-    fill="#a7f3d0">
-    Grupo oficial do Roblox
-  </text>
+<text
+ x="625"
+ y="160"
+ font-size="12.5"
+ fill="#a7f3d0">
+Grupo oficial do Roblox </text>
 
-  <text
-    x="625"
-    y="175"
-    font-size="12.5"
-    fill="#a7f3d0">
-    e futuros projetos.
-  </text>
+<text
+ x="625"
+ y="178"
+ font-size="12.5"
+ fill="#a7f3d0">
+e comunidade dos projetos. </text>
 
-  <text
-    x="625"
-    y="204"
-    font-size="11.5"
-    fill="#10b981"
-    font-family="Consolas, 'Courier New', monospace">
-    C:\Users\Samuel&gt; join_group
-  </text>
+<text
+ x="625"
+ y="204"
+ font-size="11.5"
+ fill="#10b981"
+ font-family="Consolas, 'Courier New', monospace">
+C:\Users\Samuel> join_group </text>
 
   <!-- Status -->
-  <rect
-    x="625"
-    y="224"
-    width="104"
-    height="24"
-    rx="12"
-    fill="#052e1b"
-    stroke="#34d399"
-    stroke-opacity="0.75"/>
 
-  <text
-    x="677"
-    y="240"
-    text-anchor="middle"
-    font-size="10"
-    font-weight="700"
-    fill="#34d399"
-    font-family="Consolas, 'Courier New', monospace">
-    ACCESS
-  </text>
+<rect
+ x="625"
+ y="224"
+ width="96"
+ height="24"
+ rx="12"
+ fill="#052e1b"
+ stroke="#34d399"
+ stroke-opacity="0.7"/>
+
+<text
+ x="673"
+ y="240"
+ text-anchor="middle"
+ font-size="10"
+ font-weight="700"
+ fill="#34d399"
+ font-family="Consolas, 'Courier New', monospace">
+ACTIVE </text>
 
   <!-- Botão visual -->
-  <rect
-    x="744"
-    y="218"
-    width="102"
-    height="34"
-    rx="7"
-    fill="#10b981"
-    fill-opacity="0.13"
-    stroke="#34d399"
-    stroke-width="1.2"/>
 
-  <text
-    x="795"
-    y="240"
-    text-anchor="middle"
-    font-size="11"
-    font-weight="700"
-    fill="#34d399"
-    font-family="Consolas, 'Courier New', monospace">
-    &gt; JOIN
-  </text>
+<rect
+ x="744"
+ y="218"
+ width="102"
+ height="34"
+ rx="7"
+ fill="#10b981"
+ fill-opacity="0.13"
+ stroke="#10b981"
+ stroke-width="1.2"/>
+
+<text
+ x="795"
+ y="240"
+ text-anchor="middle"
+ font-size="11"
+ font-weight="700"
+ fill="#34d399"
+ font-family="Consolas, 'Courier New', monospace">
+> JOIN </text>
 
 </g>
 
-<!-- Footer -->
-<rect
-  x="38"
-  y="316"
-  width="824"
-  height="1"
-  fill="#10b981"
-  opacity="0.32"/>
-
-<text
-  x="38"
-  y="342"
-  font-size="13"
-  fill="#6ee7b7"
-  font-family="Consolas, 'Courier New', monospace">
-  C:\Users\Samuel&gt; roblox_projects.exe --status=active
-</text>
-
-<circle
-  cx="850"
-  cy="338"
-  r="4"
-  fill="#34d399"/>
-```
-
-  </g>
 
 </svg>
