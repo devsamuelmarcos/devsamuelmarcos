@@ -40,33 +40,6 @@ Desenvolvedor com foco em **Java**, em constante evolução por meio de estudo e
 
 <br><br>
 
-<a href="https://www.roblox.com/pt/games/87925311332731/Futebol-de-Toque-Cl-ssico">
-  <img
-    src="https://img.shields.io/badge/%3E%20PLAY-Classic_Touch_Soccer-10b981?style=for-the-badge&labelColor=03110a&logo=roblox&logoColor=ffffff"
-    alt="Jogar Classic Touch Soccer"
-  />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.roblox.com/pt/games/120053743938092/Ultimate-Touch-Soccer">
-  <img
-    src="https://img.shields.io/badge/%3E%20VIEW-Ultimate_Touch_Soccer-fbbf24?style=for-the-badge&labelColor=03110a&logo=roblox&logoColor=000000"
-    alt="Ver Ultimate Touch Soccer"
-  />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="COLOQUE_AQUI_O_LINK_DO_SEU_GRUPO">
-  <img
-    src="https://img.shields.io/badge/%3E%20JOIN-ColdStyle_Studio-34d399?style=for-the-badge&labelColor=03110a&logo=roblox&logoColor=000000"
-    alt="Entrar no grupo ColdStyle Studio"
-  />
-</a>
-
-<br><br>
-
 <sub>
   <code>&gt; connection_established • Roblox / Luau • projects_online</code>
 </sub>
