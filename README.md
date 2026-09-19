@@ -32,14 +32,6 @@ Desenvolvedor com foco em **Java**, em constante evolução por meio de estudo e
 
 <br/><br/>
 
-<!-- Grupo no Roblox -->
-## 👥 Grupo Roblox
-<a href="https://www.roblox.com/pt/communities/399841895/ColdStyle-Studio#!/about" target="_blank">
-<img src="https://img.shields.io/badge/ColdStyle%20Studio-Junte--se%20ao%20Grupo-10b981?style=for-the-badge&logo=roblox&logoColor=white" alt="ColdStyle Studio Group" />
-</a>
-
-<br/><br/>
-  
 <img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/divider.svg" alt="" width="100%"/>
 
 ## 💬 Linguagens
