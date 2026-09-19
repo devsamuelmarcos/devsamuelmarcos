@@ -1,55 +1,538 @@
-<text x="36" y="34" font-size="15" fill="#34d399" font-family="{MONO}">&gt; projetos_destaque (Roblox &amp; Luau)
-  <animate attributeName="opacity" dur="0.6s" fill="freeze" keyTimes="0;0.3;1" values="0;0;1"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="900"
+  height="360"
+  viewBox="0 0 900 360"
+  font-family="Segoe UI, Arial, sans-serif">
+
+  <defs>
+
+```
+<linearGradient id="bg"
+                x1="0" y1="0"
+                x2="1" y2="1">
+  <stop offset="0" stop-color="#03110a"/>
+  <stop offset="1" stop-color="#0b2e1c"/>
+</linearGradient>
+
+<linearGradient id="acc"
+                gradientUnits="userSpaceOnUse"
+                x1="150" y1="0"
+                x2="750" y2="0">
+  <stop offset="0" stop-color="#6ee7b7"/>
+  <stop offset="0.5" stop-color="#10b981"/>
+  <stop offset="1" stop-color="#84cc16"/>
+</linearGradient>
+
+<radialGradient id="glow"
+                cx="0.5"
+                cy="0.5"
+                r="0.5">
+  <stop offset="0" stop-color="#10b981" stop-opacity="0.32"/>
+  <stop offset="1" stop-color="#10b981" stop-opacity="0"/>
+</radialGradient>
+
+<pattern id="grid"
+         width="30"
+         height="30"
+         patternUnits="userSpaceOnUse">
+  <path
+    d="M30 0H0V30"
+    fill="none"
+    stroke="#10b981"
+    stroke-opacity="0.07"
+    stroke-width="1"/>
+</pattern>
+
+<clipPath id="card">
+  <rect width="900" height="360" rx="16"/>
+</clipPath>
+```
+
+  </defs>
+
+  <g clip-path="url(#card)">
+
+```
+<!-- Fundo -->
+<rect
+  width="900"
+  height="360"
+  fill="url(#bg)"/>
+
+<rect
+  width="900"
+  height="360"
+  fill="url(#grid)"/>
+
+<circle
+  cx="450"
+  cy="175"
+  r="290"
+  fill="url(#glow)"/>
+
+<!-- Decoração hacker -->
+<text
+  x="55"
+  y="75"
+  font-size="34"
+  fill="#34d399"
+  opacity="0.10"
+  font-family="Consolas, 'Courier New', monospace">
+  &lt;/&gt;
 </text>
 
-<!-- Card 1: Classic Touch Soccer (Clicável) -->
-<a href="https://www.roblox.com/pt/games/87925311332731/Futebol-de-Toque-Cl-ssico" target="_blank">
-  <g transform="translate(30, 52)">
-    <!-- Efeito hover invisível para manter o cursor de 'mãozinha' na caixa toda -->
-    <rect width="840" height="100" rx="12" fill="#0f3d26" fill-opacity="0.85" stroke="#10b981" stroke-opacity="0.5" stroke-width="1.2"/>
-    <text x="24" y="34" font-size="20" font-weight="700" fill="#ecfdf5">⚽ Classic Touch Soccer</text>
-    <text x="24" y="60" font-size="14" fill="#a7f3d0">Jogo de futebol no Roblox com sistema de física e mecânicas de toque rápido.</text>
-    <text x="24" y="80" font-size="13" fill="#6ee7b7" font-family="{MONO}">// Status: Ativo &amp; Jogável</text>
+<text
+  x="820"
+  y="80"
+  font-size="32"
+  fill="#34d399"
+  opacity="0.10"
+  font-family="Consolas, 'Courier New', monospace">
+  { }
+</text>
 
-    <g transform="translate(650, 22)">
-      <rect width="166" height="36" rx="18" fill="#0b2e1c" stroke="#34d399" stroke-width="1.2"/>
-      <text x="83" y="23" text-anchor="middle" font-size="13" font-weight="700" fill="#34d399" font-family="{MONO}">🔥 10.7k+ Visitas</text>
-    </g>
+<text
+  x="65"
+  y="320"
+  font-size="38"
+  fill="#34d399"
+  opacity="0.09"
+  font-family="Consolas, 'Courier New', monospace">
+  ;
+</text>
+
+<text
+  x="800"
+  y="325"
+  font-size="30"
+  fill="#34d399"
+  opacity="0.09"
+  font-family="Consolas, 'Courier New', monospace">
+  01
+</text>
+
+<text
+  x="835"
+  y="175"
+  font-size="26"
+  fill="#34d399"
+  opacity="0.09"
+  font-family="Consolas, 'Courier New', monospace">
+  [ ]
+</text>
+
+<text
+  x="35"
+  y="180"
+  font-size="25"
+  fill="#34d399"
+  opacity="0.09"
+  font-family="Consolas, 'Courier New', monospace">
+  ( )
+</text>
+
+<!-- Header -->
+<text
+  x="38"
+  y="38"
+  font-size="15"
+  fill="#34d399"
+  font-family="Consolas, 'Courier New', monospace">
+  &gt; projetos_destaque (Roblox &amp; Luau)
+</text>
+
+<rect
+  x="38"
+  y="50"
+  width="824"
+  height="2"
+  rx="1"
+  fill="url(#acc)"
+  opacity="0.65"/>
+
+<!-- ======================================================= -->
+<!-- CLASSIC TOUCH SOCCER                                    -->
+<!-- ======================================================= -->
+
+<g>
+
+  <rect
+    x="38"
+    y="72"
+    width="260"
+    height="220"
+    rx="14"
+    fill="#0f3d26"
+    fill-opacity="0.82"
+    stroke="#10b981"
+    stroke-opacity="0.55"
+    stroke-width="1.4"/>
+
+  <rect
+    x="54"
+    y="72"
+    width="44"
+    height="3"
+    rx="1.5"
+    fill="#34d399"/>
+
+  <text
+    x="61"
+    y="103"
+    font-size="12"
+    fill="#34d399"
+    font-family="Consolas, 'Courier New', monospace">
+    // PROJECT_01
+  </text>
+
+  <text
+    x="61"
+    y="135"
+    font-size="18"
+    font-weight="700"
+    fill="#ecfdf5">
+    Classic Touch
+  </text>
+
+  <text
+    x="61"
+    y="157"
+    font-size="18"
+    font-weight="700"
+    fill="#ecfdf5">
+    Soccer
+  </text>
+
+  <text
+    x="61"
+    y="182"
+    font-size="12.5"
+    fill="#a7f3d0">
+    Roblox football experience
+  </text>
+
+  <text
+    x="61"
+    y="200"
+    font-size="12.5"
+    fill="#a7f3d0">
+    focada em touch soccer.
+  </text>
+
+  <!-- Status -->
+  <rect
+    x="61"
+    y="224"
+    width="96"
+    height="24"
+    rx="12"
+    fill="#052e1b"
+    stroke="#34d399"
+    stroke-opacity="0.7"/>
+
+  <text
+    x="109"
+    y="240"
+    text-anchor="middle"
+    font-size="10"
+    font-weight="700"
+    fill="#34d399"
+    font-family="Consolas, 'Courier New', monospace">
+    PLAYABLE
+  </text>
+
+  <!-- Botão visual -->
+  <rect
+    x="174"
+    y="218"
+    width="102"
+    height="34"
+    rx="7"
+    fill="#10b981"
+    fill-opacity="0.13"
+    stroke="#10b981"
+    stroke-width="1.2"/>
+
+  <text
+    x="225"
+    y="240"
+    text-anchor="middle"
+    font-size="11"
+    font-weight="700"
+    fill="#34d399"
+    font-family="Consolas, 'Courier New', monospace">
+    &gt; PLAY
+  </text>
+
+</g>
+
+<!-- ======================================================= -->
+<!-- ULTIMATE TOUCH SOCCER                                   -->
+<!-- ======================================================= -->
+
+<g>
+
+  <rect
+    x="320"
+    y="72"
+    width="260"
+    height="220"
+    rx="14"
+    fill="#0f3d26"
+    fill-opacity="0.82"
+    stroke="#10b981"
+    stroke-opacity="0.55"
+    stroke-width="1.4"/>
+
+  <rect
+    x="336"
+    y="72"
+    width="44"
+    height="3"
+    rx="1.5"
+    fill="#34d399"/>
+
+  <text
+    x="343"
+    y="103"
+    font-size="12"
+    fill="#34d399"
+    font-family="Consolas, 'Courier New', monospace">
+    // PROJECT_02
+  </text>
+
+  <text
+    x="343"
+    y="135"
+    font-size="18"
+    font-weight="700"
+    fill="#ecfdf5">
+    Ultimate Touch
+  </text>
+
+  <text
+    x="343"
+    y="157"
+    font-size="18"
+    font-weight="700"
+    fill="#ecfdf5">
+    Soccer
+  </text>
+
+  <text
+    x="343"
+    y="182"
+    font-size="12.5"
+    fill="#a7f3d0">
+    Nova geração do Touch
+  </text>
+
+  <text
+    x="343"
+    y="200"
+    font-size="12.5"
+    fill="#a7f3d0">
+    Soccer em desenvolvimento.
+  </text>
+
+  <!-- Status -->
+  <rect
+    x="343"
+    y="224"
+    width="96"
+    height="24"
+    rx="12"
+    fill="#052e1b"
+    stroke="#34d399"
+    stroke-opacity="0.7"/>
+
+  <text
+    x="391"
+    y="240"
+    text-anchor="middle"
+    font-size="10"
+    font-weight="700"
+    fill="#34d399"
+    font-family="Consolas, 'Courier New', monospace">
+    PLAYABLE
+  </text>
+
+  <!-- Badge BETA -->
+  <text
+    x="343"
+    y="270"
+    font-size="12"
+    fill="#6ee7b7"
+    font-family="Consolas, 'Courier New', monospace">
+    // BETA • JOGÁVEL
+  </text>
+
+  <!-- Botão visual -->
+  <rect
+    x="460"
+    y="218"
+    width="102"
+    height="34"
+    rx="7"
+    fill="#10b981"
+    fill-opacity="0.13"
+    stroke="#10b981"
+    stroke-width="1.2"/>
+
+  <text
+    x="511"
+    y="240"
+    text-anchor="middle"
+    font-size="11"
+    font-weight="700"
+    fill="#34d399"
+    font-family="Consolas, 'Courier New', monospace">
+    &gt; PLAY
+  </text>
+
+</g>
+
+<!-- ======================================================= -->
+<!-- COLDSTYLE STUDIO                                        -->
+<!-- ======================================================= -->
+
+<g>
+
+  <rect
+    x="602"
+    y="72"
+    width="260"
+    height="220"
+    rx="14"
+    fill="#03110a"
+    fill-opacity="0.90"
+    stroke="#34d399"
+    stroke-opacity="0.72"
+    stroke-width="1.5"/>
+
+  <rect
+    x="618"
+    y="72"
+    width="44"
+    height="3"
+    rx="1.5"
+    fill="#34d399"/>
+
+  <text
+    x="625"
+    y="103"
+    font-size="12"
+    fill="#34d399"
+    font-family="Consolas, 'Courier New', monospace">
+    // COMMUNITY
+  </text>
+
+  <text
+    x="625"
+    y="135"
+    font-size="18"
+    font-weight="700"
+    fill="#ecfdf5">
+    ColdStyle Studio
+  </text>
+
+  <text
+    x="625"
+    y="157"
+    font-size="12.5"
+    fill="#a7f3d0">
+    Grupo oficial do Roblox
+  </text>
+
+  <text
+    x="625"
+    y="175"
+    font-size="12.5"
+    fill="#a7f3d0">
+    e futuros projetos.
+  </text>
+
+  <text
+    x="625"
+    y="204"
+    font-size="11.5"
+    fill="#10b981"
+    font-family="Consolas, 'Courier New', monospace">
+    C:\Users\Samuel&gt; join_group
+  </text>
+
+  <!-- Status -->
+  <rect
+    x="625"
+    y="224"
+    width="104"
+    height="24"
+    rx="12"
+    fill="#052e1b"
+    stroke="#34d399"
+    stroke-opacity="0.75"/>
+
+  <text
+    x="677"
+    y="240"
+    text-anchor="middle"
+    font-size="10"
+    font-weight="700"
+    fill="#34d399"
+    font-family="Consolas, 'Courier New', monospace">
+    ACCESS
+  </text>
+
+  <!-- Botão visual -->
+  <rect
+    x="744"
+    y="218"
+    width="102"
+    height="34"
+    rx="7"
+    fill="#10b981"
+    fill-opacity="0.13"
+    stroke="#34d399"
+    stroke-width="1.2"/>
+
+  <text
+    x="795"
+    y="240"
+    text-anchor="middle"
+    font-size="11"
+    font-weight="700"
+    fill="#34d399"
+    font-family="Consolas, 'Courier New', monospace">
+    &gt; JOIN
+  </text>
+
+</g>
+
+<!-- Footer -->
+<rect
+  x="38"
+  y="316"
+  width="824"
+  height="1"
+  fill="#10b981"
+  opacity="0.32"/>
+
+<text
+  x="38"
+  y="342"
+  font-size="13"
+  fill="#6ee7b7"
+  font-family="Consolas, 'Courier New', monospace">
+  C:\Users\Samuel&gt; roblox_projects.exe --status=active
+</text>
+
+<circle
+  cx="850"
+  cy="338"
+  r="4"
+  fill="#34d399"/>
+```
+
   </g>
-</a>
 
-<!-- Card 2: Ultimate Touch Soccer (Clicável) -->
-<a href="https://www.roblox.com/pt/games/120053743938092/Ultimate-Touch-Soccer" target="_blank">
-  <g transform="translate(30, 166)">
-    <rect width="840" height="100" rx="12" fill="#0f3d26" fill-opacity="0.85" stroke="#10b981" stroke-opacity="0.5" stroke-width="1.2"/>
-    <text x="24" y="34" font-size="20" font-weight="700" fill="#ecfdf5">🎮 Ultimate Touch Soccer</text>
-    <text x="24" y="60" font-size="14" fill="#a7f3d0">Evolução do Touch Soccer com gráficos renovados, novas mecânicas e servidor dedicado.</text>
-    <text x="24" y="80" font-size="13" fill="#fbbf24" font-family="{MONO}">// Status: 🛠️ Em BETA)</text>
-
-    <g transform="translate(650, 22)">
-      <rect width="166" height="36" rx="18" fill="#0b2e1c" stroke="#fbbf24" stroke-width="1.2"/>
-      <text x="83" y="23" text-anchor="middle" font-size="13" font-weight="700" fill="#fbbf24" font-family="{MONO}">⚡ Lançamento Oficial em Breve</text>
-    </g>
-  </g>
-</a>
-
-<!-- Card 3: Grupo Oficial (Clicável - Hacker Vibe) -->
-<a href="https://www.roblox.com/pt/communities/399841895/ColdStyle-Studio#!/about" target="_blank">
-  <g transform="translate(30, 280)">
-    <rect width="840" height="100" rx="12" fill="#03110a" fill-opacity="0.9" stroke="#34d399" stroke-opacity="0.8" stroke-width="1.5"/>
-    <text x="24" y="34" font-size="20" font-weight="700" fill="#ecfdf5">👥 ColdStyle Studio (Grupo)</text>
-    <text x="24" y="60" font-size="14" fill="#a7f3d0">Junte-se ao nosso grupo oficial. Receba updates, tags no chat e bônus nos jogos.</text>
-    <text x="24" y="80" font-size="13" fill="#10b981" font-family="{MONO}">C:\Users\Player&gt; join_group.exe --user=local</text>
-
-    <g transform="translate(650, 22)">
-      <!-- Botão estilizado como um prompt de terminal -->
-      <rect width="166" height="36" rx="6" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="1.5"/>
-      <text x="83" y="23" text-anchor="middle" font-size="13" font-weight="700" fill="#10b981" font-family="{MONO}">[+] Access_Granted</text>
-    </g>
-  </g>
-</a>
-
-<!-- Animação do Scanner (linha varrendo em baixo) -->
-<rect x="-220" y="406" width="220" height="4" fill="url(#sweep)">
-  <animateTransform attributeName="transform" type="translate" values="0 0;1120 0" dur="4s" repeatCount="indefinite"/>
-</rect>
+</svg>
