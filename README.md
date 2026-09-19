@@ -1,23 +1,22 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/header.svg" alt="Samuel Marcos" width="100%"/>
+<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/header.svg" alt="Samuel Marcos - Desenvolvedor Java" width="100%"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-- ☕ Programador com foco em **Java**
-- 🧭 Ainda estou descobrindo qual área seguir dentro da programação
-- 🗣️ Sei **inglês** e leio documentação sem problemas
-- 🌱 Sempre estudando e criando projetos pra aprender na prática
+Desenvolvedor com foco em **Java**, em constante evolução por meio de estudo e prática. Ainda estou definindo minha especialização dentro da tecnologia e estou explorando as áreas abaixo.
+
+- ☕ Foco atual: **Java**
+- 📚 Estudo contínuo e projetos práticos
+- 🗣️ Inglês para leitura de documentação e comunicação técnica
 
 ---
 
-## 🎯 Áreas que pretendo seguir
-
-Ainda não sei qual escolher, mas essas são as que mais me interessam:
+## 🎯 Áreas de interesse
 
 - 🌐 **Fullstack**
 - ⚙️ **Backend**
@@ -26,17 +25,17 @@ Ainda não sei qual escolher, mas essas são as que mais me interessam:
 
 ---
 
-## 🎮 O que já faço
+## 🎮 Experiência prática
 
-Enquanto decido meu caminho, já desenvolvo **jogos para outras pessoas no Roblox** (com Luau) e outros projetos, o que me ajuda a praticar lógica, organização de código e a trabalhar com clientes reais.
+Atualmente desenvolvo **jogos para outras pessoas no Roblox**, utilizando **Luau**, além de outros projetos. Essa experiência me ajuda a praticar lógica de programação, organização de código e entrega de projetos reais.
 
 ---
 
-## 💬 Linguagens
+## 🛠️ Linguagens e ferramentas
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/skills.svg" alt="Linguagens: Java, Python, JavaScript, HTML, CSS, Luau"/>
+<img src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/skills.svg" alt="Linguagens e ferramentas: Java, JavaScript, Python, Luau, HTML, CSS, Roblox Studio"/>
 
 </div>
 
@@ -47,7 +46,7 @@ Enquanto decido meu caminho, já desenvolvo **jogos para outras pessoas no Roblo
 | Idioma | Nível |
 |--------|-------|
 | 🇧🇷 Português | Nativo |
-| 🇺🇸 Inglês | Sei / Intermediário |
+| 🇺🇸 Inglês | Intermediário |
 
 ---
 
@@ -77,16 +76,6 @@ public class Samuel {
 
 <div align="center">
 
-⭐ *Curtiu algum projeto? Deixa uma estrela!* ⭐
-
-</div>
-
-- GitHub: [@devsamuelmarcos](https://github.com/devsamuelmarcos)
-
----
-
-<div align="center">
-
-⭐ *Curtiu algum projeto? Deixa uma estrela!* ⭐
+⭐ *Curtiu algum projeto? Deixe uma estrela!* ⭐
 
 </div>
