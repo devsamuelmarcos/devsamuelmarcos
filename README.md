@@ -34,7 +34,7 @@ Desenvolvedor com foco em **Java**, em constante evolução por meio de estudo e
 
 <img
   src="https://raw.githubusercontent.com/devsamuelmarcos/devsamuelmarcos/main/assets/projetos.svg"
-  alt="Projetos Roblox de Samuel Marcos"
+  alt="Meus Projetos Roblox"
   width="100%"
 />
 
